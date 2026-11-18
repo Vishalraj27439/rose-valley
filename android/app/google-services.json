@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15682462078",
+    "project_id": "rose-valley-899f9",
+    "storage_bucket": "rose-valley-899f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15682462078:android:38015bf133dc138533d32f",
+        "android_client_info": {
+          "package_name": "com.rvis.apppro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjzTpGh_EnBbX6F48UFcuYEXW_V9cIA-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
